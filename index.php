@@ -7,16 +7,24 @@
 <META content="Era of Darkness is a massively multiplayer online role playing game. Players choose a nation and faction and build armies, recruit friends as officers, buy weapons, and spy on and attack each other." name=description>
 <META content="Era of Darkness" name=author></head>
 
-<BODY text=#000000 bgColor=#ffffff leftMargin=0 topMargin=0 marginheight="0" 
-marginwidth="0">
-
+<body text="#FF0033" bgcolor="#000000" link="#FF0033' vlink="#FF0033" alink="#FF0033">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Era of Darkness -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9709758420986273"
+     data-ad-slot="2273217943"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <?
 	include ("top.php");
 ?>
 <?
 	include ("left.php");
 ?>
+<p><h1><center>Under construction!</center></h></p>
 <?
-	  include ("bottom.php");
+	include ("bottom.php");
 ?>
 </body></html>
