@@ -7,7 +7,7 @@
 <META content="Era of Darkness is a massively multiplayer online role playing game. Players choose a nation and faction and build armies, recruit friends as officers, buy weapons, and spy on and attack each other." name=description>
 <META content="Era of Darkness" name=author></head>
 
-<body text="#FF0033" bgcolor="#FFFFFF" link="#FF0033' vlink="#FF0033" alink="#FF0033">
+<body text="#160042" bgcolor="#FFFFFF" link="#FF0033' vlink="#FF0033" alink="#FF0033">
 
 <?
 	include ("top.php");
